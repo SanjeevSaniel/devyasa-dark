@@ -1,6 +1,6 @@
-# Devyasa Dark Spiritual Theme
+# Devyasa Dark Theme
 
-**Devyasa Dark Spiritual** is a meticulously crafted dark theme for Visual Studio Code, designed to provide a calming and visually pleasing coding environment. With harmonious colors inspired by spiritual vibes, this theme aims to enhance your focus and productivity.
+**Devyasa Dark Spiritual** is a meticulously crafted dark theme for Visual Studio Code, designed to provide a calming and visually pleasing coding environment. With harmonious colors inspired by spiritual vibes, this theme aims to enhance your focus and productivity, especially for web development languages.
 
 <!-- ![Devyasa Dark Spiritual Logo](logo.png) -->
 
@@ -18,7 +18,7 @@
 
 #### Editor View
 
-![Editor View](assets/editor.png)
+![Editor View](/assets/editor.png)
 
 <!-- #### Debugging
 

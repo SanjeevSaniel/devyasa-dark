@@ -568,6 +568,20 @@
       "settings": {
         "foreground": "#F0EAD6" // Divine White
       }
+    },
+    {
+      "name": "Tailwind CSS At-rule Media Header",
+      "scope": ["meta.at-rule.media.header.css"],
+      "settings": {
+        "foreground": "#da98f5"
+      }
+    },
+    {
+      "name": "Tailwind CSS Source",
+      "scope": ["source.css.tailwind"],
+      "settings": {
+        "foreground": "#fa8dc3"
+      }
     }
   ]
 }
