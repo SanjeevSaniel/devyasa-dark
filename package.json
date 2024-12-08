@@ -2,7 +2,7 @@
   "name": "devyasa-dark",
   "displayName": "Devyasa Dark",
   "description": "A dark theme with spiritual vibes and harmonious colors",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "SanjeevSanielKujur",
   "engines": {
     "vscode": "^1.95.0"
