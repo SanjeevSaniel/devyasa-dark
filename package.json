@@ -2,7 +2,7 @@
   "name": "devyasa-dark",
   "displayName": "Devyasa Dark",
   "description": "A dark theme with spiritual vibes and harmonious colors",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "SanjeevSanielKujur",
   "engines": {
     "vscode": "^1.95.0"
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SanjeevSaniel/devyasa-dark-spiritual.git"
+    "url": "https://github.com/SanjeevSaniel/devyasa-dark.git"
   },
   "icon": "logo.png",
   "license": "MIT"
