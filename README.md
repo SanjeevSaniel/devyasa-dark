@@ -18,7 +18,7 @@
 
 #### Editor View
 
-![Editor View](/assets/editor.png)
+![Editor View](images/editor.png)
 
 <!-- #### Debugging
 
