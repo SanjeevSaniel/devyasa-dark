@@ -43,14 +43,3 @@ We welcome contributions! Feel free to submit issues or pull requests to help im
 ### 📜 License
 
 This theme is licensed under the [MIT License](LICENSE).
-
----
-
-### Tips
-
-- Ensure that the image paths are correct and relative to your README file location.
-- Use meaningful filenames for your snapshots to make it easier to understand their content.
-
-By following these steps, your README file will be more engaging and informative, showcasing your theme in action.
-
-If you need any further assistance or specific adjustments, feel free to let me know! 😊🚀

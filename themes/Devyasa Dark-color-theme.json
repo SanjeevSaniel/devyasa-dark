@@ -12,7 +12,25 @@
     "panel.background": "#1A1C1A", // Panel background
     "editorGroupHeader.tabsBackground": "#1A1C1A", // Tabs background
     "tab.activeBackground": "#1A1C1A", // Active tab background
-    "tab.inactiveBackground": "#2A2C2A" // Inactive tab background (optional)
+    "tab.inactiveBackground": "#2A2C2A", // Inactive tab background (optional)
+    "terminal.background": "#1A1C1A",
+    "terminal.foreground": "#F0EAD6",
+    "terminal.ansiBlack": "#000000",
+    "terminal.ansiRed": "#FF5555",
+    "terminal.ansiGreen": "#50FA7B",
+    "terminal.ansiYellow": "#F1FA8C",
+    "terminal.ansiBlue": "#BD93F9",
+    "terminal.ansiMagenta": "#FF79C6",
+    "terminal.ansiCyan": "#8BE9FD",
+    "terminal.ansiWhite": "#BFBFBF",
+    "terminal.ansiBrightBlack": "#4D4D4D",
+    "terminal.ansiBrightRed": "#FF6E6E",
+    "terminal.ansiBrightGreen": "#69FF94",
+    "terminal.ansiBrightYellow": "#FFFFA5",
+    "terminal.ansiBrightBlue": "#D6ACFF",
+    "terminal.ansiBrightMagenta": "#FF92D0",
+    "terminal.ansiBrightCyan": "#A4FFFF",
+    "terminal.ansiBrightWhite": "#E6E6E6"
   },
   "tokenColors": [
     {
